@@ -13,12 +13,14 @@ Data comes from the following sources:
 ```
 ├── README.md  
 ├── data
-│   ├── transformed    <- Final, canonical data for monitoring
-|   ├── interim        <- Intermediate data that has been transformed.
+│   ├── transformed    <- Final, canonical data for modeling
+|   ├── interim        <- Intermediate data that has been transformed
 │   └── raw            <- Original, raw data 
 └── code 
 ```
 
 
 ## Resources
-* [Cookie Cutter Data Science Template](https://github.com/drivendata/cookiecutter-data-science)
+Additional resources I used to complete this project:
+* [MRP: what it is and why it may, or may not, be right at the next general election](https://theweekinpolls.substack.com/p/mrp-what-it-is-and-why-it-may-or)
+* [Cookie cutter data science template](https://github.com/drivendata/cookiecutter-data-science)
